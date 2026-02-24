@@ -117,12 +117,19 @@ http://localhost:3000
 
 --- 
 
-### 📸 Screenshots
+## 📸 Screenshots
 
-/screenshots/home.png
-/screenshots/login.png
-/screenshots/cart.png
-/screenshots/products.png
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### 🔐 Login Page
+![Login Page](./screenshots/login.png)
+
+### 🛒 Cart Page
+![Cart Page](./screenshots/cart.png)
+
+### 👕 Products Section
+![Products](./screenshots/products.png)
 
 ---
 
